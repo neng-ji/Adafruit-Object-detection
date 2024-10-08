@@ -19,4 +19,16 @@ This project utilizes YOLOv8 to train a custom object detection model, deployed 
   ```bash
   cam.py
 
-### Result:
+## Result:
+
+### Settup:
+
+<img src="https://github.com/user-attachments/assets/5d287a5b-f33f-4aca-be81-bae0a4213913" alt="Image description" width="600"/>
+
+### Assemble:
+
+<img src="https://github.com/user-attachments/assets/62615252-82b6-413b-be04-24f4cbaafdb3" alt="Image 1 description" width="400"/>
+
+### Run cam.py
+<img src="https://github.com/user-attachments/assets/257faff7-ff62-4d01-a812-a5899cb08d99" alt="Image 2 description" width="400"/>
+
