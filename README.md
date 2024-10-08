@@ -1,7 +1,7 @@
-# Project: Object Detection with YOLOv8 on Raspberry Pi 4
+# Project: Object Detection with YOLOv8 on Raspberry Pi
 
 ## Overview
-This project utilizes YOLOv8 to train a custom object detection model, deployed on a Raspberry Pi 4 with a camera. The model is trained on a local laptop and later transferred to the Raspberry Pi for real-time object detection.
+This project utilizes YOLOv8 to train a custom object detection model, deployed on a Raspberry Pi with a camera. The model is trained on a local laptop and later transferred to the Raspberry Pi for real-time object detection.
 
 ## Steps to Follow
 
